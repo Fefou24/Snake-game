@@ -1,2 +1,2 @@
 # Snake-game
-Test de codex
+Test of Codex
